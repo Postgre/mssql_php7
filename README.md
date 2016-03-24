@@ -1,4 +1,4 @@
 # mssql_php7
 mssql extension for php7
 
-```Copy ext/mssql from php 5.6, then override php_mssql.h and php_mssql.c, compile
+php7已经不提供mssql扩展库，这个是从php5.6改过来的，给那些还需要连接mssql2000的使用。
